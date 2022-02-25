@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>There was a paper published on Friday last entituled Considerations humbly tender'd concerning the East-India-Company and the design of it is to offer some arguments for continuing the said company under the present charter and management.</title>
+            <author>White, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65740</idno>
+            <idno type="STC">Wing W1771</idno>
+            <idno type="STC">ESTC R22855</idno>
+            <idno type="EEBO-CITATION">12622707</idno>
+            <idno type="OCLC">ocm 12622707</idno>
+            <idno type="VID">64564</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64564)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 969:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>There was a paper published on Friday last entituled Considerations humbly tender'd concerning the East-India-Company and the design of it is to offer some arguments for continuing the said company under the present charter and management.</title>
+                  <author>White, George.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>168-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>Attributed to Broadside George White. cf. NUC pre-1956.</note>
+                  <note>Signed: George White.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:64564:1"/>
+            <head>There was a Paper publiſh'd on <hi>Friday</hi> laſt, Entituled <hi>Conſidera<g ref="char:EOLhyphen"/>tions humbly tender'd concerning the</hi> Eaſt-India-Company: And the Deſign of it is to offer ſome Arguments for continuing the ſaid <hi>Company</hi> under the preſent <hi>Charter</hi> and <hi>Management.</hi>
+            </head>
+            <p>THE two firſt Paragraphs make a ſound of a great Regard to the <hi>Public:</hi> But 'tis indeed the <hi>Voice</hi> of <hi>private Intereſt:</hi> And whatever Pretences are now made to ſerve a Turn at this Juncture: 'Tis notorious, That the preſent <hi>Eaſt-India-Stock</hi> has all along been manag'd by a <hi>few prevailing Men,</hi> who have ſubjected the General Concern to their particular Advantages: And more eſpecially for about ten Years paſt, the whole matter has been made ſubſervient to the boundleſs Ambition and Avarice of <hi>One Aſpiring Perſon,</hi> as 'tis now ſo aſſiduouſly en<g ref="char:EOLhyphen"/>deavour'd to be continu'd, by <hi>Himſelf,</hi> and a <hi>few Others, who have of late by his Favour been introduc'd into the Committee.</hi>
+            </p>
+            <p>'Tis inſinuated, <hi>That the diſſolving this Charter wou'd be of fatal Conſequence to the Na<g ref="char:EOLhyphen"/>tion, in giving our Neighbours opportunity to make themſelves Maſters of all that Trade:</hi> But the direct contrary is the real Truth, for by the late moſt Imprudent and Unjuſtifiable Pro<g ref="char:EOLhyphen"/>ceedings, we have already in a manner loſt all our Trade and Intereſt in thoſe Parts, which is no other way poſſibly retrievable, but by a New Joynt-Stock firmly and legally eſta<g ref="char:EOLhyphen"/>bliſh'd: And this too, muſt be ſpeedily done, or 'twill be too late.</p>
+            <p>'T had been happy for the Nation in general, as well as the particular Adventurers in this preſent Stock, if the Managers had timely and faithfully acted with that great Care to prevent the Encroachments of our Neighbours, which they now ſo zealouſly pretend, whereby we might not only have ſtill been Maſters of our <hi>Spice-Iſland</hi> of <hi>Poleroon,</hi> and continu'd our Settlement at <hi>Maccaſſer,</hi> 
+               <note place="margin">
+                  <hi>Vide,</hi> The Letters from <hi>Bantam, Anno</hi> 1679. and the Anſwer from <hi>London, Anno</hi> 1680.</note> But have alſo at this time been in Poſſeſſion of a moſt important Fortreſs at <hi>Bantam,</hi> which that <hi>King</hi> Courted their Acceptance of, and offer'd to Contribute to the Building it. But this great Acquiſition was rejected for fear of a ſmall Ex<g ref="char:EOLhyphen"/>pence, When <hi>One</hi> of thoſe many <hi>Ten-Thouſand-Guinea's</hi> they beſtow'd at <hi>Court</hi> to purchaſe a Power to oppreſs their Fellow-Subjects, wou'd have defray'd the Charge of their firſt Settlement, and 'twou'd not only before this time have repay'd them <hi>Twenty-fold,</hi> but been a laſting and growing Treaſure to the Nation, and enabl'd them for the future, to ſtand in Competition with the <hi>Dutch</hi> as well for <hi>Empire</hi> as for <hi>Traffick.</hi> Whereas the refuſal thereof, has occaſion'd their being driven out of the <hi>South Seas</hi> with irrepairable <hi>Loſs and Shame,</hi> and gave <hi>Our Neighbours</hi> an opportu<g ref="char:EOLhyphen"/>nity to accompliſh an entire <hi>Dominion</hi> in all thoſe Parts: And yet theſe are the Men that now ſet up for <hi>Public Spirited Patriots,</hi> and call themſelves the <hi>Conſervers</hi> of the <hi>Trade of India,</hi> againſt the <hi>Intruſions of our Neighbours.</hi>
+            </p>
+            <p>How theſe <hi>Managers</hi> have diſpos'd Affairs in other parts of <hi>India,</hi> by the <hi>Violencies</hi> they have of late committed on the Lives and Goods of the Subjects of the <hi>Great Mogul,</hi> and the <hi>King of Siam,</hi> has been already intimated in an Abſtract of thoſe their unjuſtifiable Actions preſented to the <hi>High Court of Parliament;</hi> whereby it appears what great regard they have had as well to the <hi>Honour,</hi> as <hi>Intereſt,</hi> of the Nation: For from the moſt <hi>Belov'd</hi> and <hi>Reſpected,</hi> we are in a ſhort time become the moſt <hi>Abhorr'd,</hi> and <hi>Infamous,</hi> of all <hi>Europeans,</hi> and ſo have loſt a <hi>ſtronger Hold,</hi> than all their <hi>Force</hi> will ever be able to regain in any of thoſe Parts of the World.</p>
+            <p>Thus do's the <hi>National Eſteem</hi> and <hi>Intereſt,</hi> languiſh, and decline, under the <hi>Mal-admi<g ref="char:EOLhyphen"/>niſtration</hi> of the preſent <hi>Managers</hi> of the <hi>Companies</hi> Affairs: And is it not a fit queſti<g ref="char:EOLhyphen"/>on to be now ask'd by <hi>ONE of their Committee, What ſhall we do for Saltpetre for our Wars when the Trade of</hi> India <hi>is loſt?</hi> To which there is only this anſwer to be made him, <hi>That if the Government do's not effectually and ſpeedily interpoſe and ſettle our Trade on a good Bottom, and in a method that may be more National:</hi> We ſhall ſoon find our great want of that, and all things elſe we us'd to be ſupply'd with from thoſe Parts, when 'tmay be too late to recover the Loſs.</p>
+            <pb facs="tcp:64564:2"/>
+            <p>But 'tis pretended, there will ſo many Difficulties occur in the changing <hi>This,</hi> for a <hi>New Company,</hi> that renders it impracticable.</p>
+            <p>As firſt, 'tis ſaid, <hi>That the New Adventurers will be a great while at a Stop and Nonplus.</hi> And this is in one ſenſe true; For 'tis certain 'twill require ſome time, with much prudent Care, and Study, to regain that good Reſpect and Credit which the late Miſcarriages have juſtly Forfeited: But if 't be meant that there wou'd want others of as good <hi>Parts</hi> and <hi>Experience,</hi> as the <hi>preſent Managers,</hi> to aſſiſt in the Conduct of Affairs: 'Tis a groundleſs Preſumption.</p>
+            <p>But <hi>what reaſonable Compenſation can be made to the preſent Company for their dead Stock, Forts, Caſtles, Arms, Ammunition, and Priviledges?</hi> Why juſt the ſame as they made to the Company that preceded them: For this now in being <hi>(if any there be)</hi> is the ſixth or ſeventh <hi>Joynt-Stock,</hi> ſince our Nation firſt engag'd in Adventures to <hi>India;</hi> And ſo the adju<g ref="char:EOLhyphen"/>ſting of thoſe things is chalk'd out to us by ſeveral Preſidents: And here it aptly falls in, to remind them, that are ſo brisk in exacting whatever they can any way lay claim to: <hi>That they alſo bethink themſelves of diſcharging all their own great Debts, and reſtore thoſe vaſt Sums they have ſo unlawfully taken, both from their Fellow-Subjects and Foreigners.</hi>
+            </p>
+            <p>There is in the Paper another little Hint or two of no <hi>material Concern;</hi> And ſome ſuperci<g ref="char:EOLhyphen"/>lious Reflections on <hi>Interlopers</hi> which may be conſider'd at better leiſure: While the ſole intent of this, is to detect the <hi>Fallacy</hi> of ſome <hi>Popular Notions</hi> that are at this time with ſuch great Induſtry diſſeminated; And to aſſert this important Truth; <hi>That no Man who has a right Cognizance of the Affair, can be a True Friend to his Country, and at the ſame time endeavour the Continuance of this</hi> Eaſt-India-Company <hi>under the preſent Conſtitution and Management.</hi>
+            </p>
+            <closer>
+               <signed>GEORGE WHITE.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
